@@ -1,0 +1,29 @@
+{
+  "name": "Tenet Menu",
+  "logoURI": "https://img.api.cryptorank.io/coins/150x150.tenet1678351086438.png",
+  "keywords": ["TENET", "tokens", "uniswap"],
+  "timestamp": "2023-05-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe",
+      "chainId": 1559,
+      "name": "Wrapped Tenet",
+      "symbol": "WTENET",
+      "decimals": 18,
+      "logoURI": "https://img.api.cryptorank.io/coins/150x150.tenet1678351086438.png"
+    },
+    {
+      "address": "0x0260F440AEa04a1690aB183Dd63C5596d66A9a43",
+      "chainId": 1559,
+      "name": "Tendie",
+      "symbol": "TENDIE",
+      "decimals": 18,
+      "logoURI": "https://imgur.com/QHNZ4D2.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
