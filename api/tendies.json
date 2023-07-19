@@ -1,0 +1,29 @@
+{
+  "name": "Tendie Menu",
+  "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
+  "keywords": ["Tendie", "tokens", "uniswap"],
+  "timestamp": "2023-05-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe",
+      "chainId": 1559,
+      "name": "WTENET",
+      "symbol": "WTENET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+    {
+      "address": "0xcF31FA8D35E865114BbD2C6A7b652a021B495a1f",
+      "chainId": 1559,
+      "name": "Test Token",
+      "symbol": "TEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
